@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAssembly", "GameAssembly.csproj", "{143491F0-7886-ECE7-4524-18536A2C8776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{8BD85177-C56C-CBF3-9765-C6A4CF2EF577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143491F0-7886-ECE7-4524-18536A2C8776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143491F0-7886-ECE7-4524-18536A2C8776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143491F0-7886-ECE7-4524-18536A2C8776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143491F0-7886-ECE7-4524-18536A2C8776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD85177-C56C-CBF3-9765-C6A4CF2EF577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD85177-C56C-CBF3-9765-C6A4CF2EF577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD85177-C56C-CBF3-9765-C6A4CF2EF577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD85177-C56C-CBF3-9765-C6A4CF2EF577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

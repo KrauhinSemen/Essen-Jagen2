@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd13db2889893b040b1ecebf0c799177
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb2d: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - jump: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
